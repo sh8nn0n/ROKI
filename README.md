@@ -7,4 +7,4 @@ I made a concept model of a bird friendly building using biomimicry principles.
 
 Link to Figma presentation: https://www.figma.com/proto/gcZwBiNeZrShglLfnMWIgq/bird-house?node-id=0-1&t=ok3YyIYouYirPjZA-1
 
-Link to video of the building: https://drive.google.com/file/d/1Mf4RdK5fhOS1ERLaw025e8F2-DvbphD_/view?usp=sharing
+Link to video of the building: https://youtube.com/shorts/sQCHLNvcMKk?feature=share
