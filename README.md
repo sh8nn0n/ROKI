@@ -1,5 +1,5 @@
 # ROKI
-I made a concept model of a bird friendly building
+I made a concept model of a bird friendly building using biomimicry principles.
 
 
 
